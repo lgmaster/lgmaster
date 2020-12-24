@@ -49,8 +49,9 @@ I am a Full-Stack Mobile and Web Developer :wink:
 ### You can find in me in the web 🌍
 [<img align="left" alt="lgmaster" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="lgmaster | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="lgmaster | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/minutemailer.svg" />][email]
 
-<br/><br/>
+<br/><br/>	
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
@@ -60,3 +61,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: https://luizgustavo.net
 [linkedin]: https://www.linkedin.com/in/luizgustavome/
+[email]: contact@luizgustavo.net
