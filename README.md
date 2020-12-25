@@ -1,4 +1,4 @@
-### Hey Luiz Gustavo here 👋
+### Hi there 👋
 
 ---
 
@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/lgmaster/lgmaster/main/crash.gif" width="500" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-Stack Mobile and Web Developer :wink:
+My name is Luiz Gustavo and I'm a Full-Stack Mobile and Web Developer :wink:
   
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-React Native-000000?style=for-the-badge&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&logo=Node.js&logoColor=white">
  
