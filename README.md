@@ -8,7 +8,7 @@
 
 My name is Luiz Gustavo and I'm a Full-Stack Mobile and Web Developer :wink:
   
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF">
+<!---🌱 I’m currently learning <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF">-->
  
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
  
