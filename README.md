@@ -2,7 +2,7 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/lgmaster?template=classic&config.timezone=America%2FSao_Paulo)
+![Metrics](https://metrics.lecoq.io/lgmaster)
 
 My name is Luiz Gustavo and I'm a Full-Stack Mobile and Web Developer :wink:
   
