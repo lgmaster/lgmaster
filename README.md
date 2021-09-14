@@ -2,7 +2,9 @@
 
 ---
 
-![Metrics](https://metrics.lecoq.io/lgmaster)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/lgmaster/lgmaster/main/crash.gif" width="500" title="Intro Card" alt="Intro Card">
+</p>
 
 My name is Luiz Gustavo and I'm a Full-Stack Mobile and Web Developer :wink:
   
