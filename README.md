@@ -61,4 +61,4 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 [website]: https://luizgustavo.net
 [linkedin]: https://www.linkedin.com/in/luizgustavome/
-[email]: mailto:contact@luizgustavo.net
+[email]: mailto:lgdeveloper@outlook.com
