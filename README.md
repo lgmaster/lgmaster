@@ -1,11 +1,6 @@
 ### Hi there 👋
 
 ---
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/lgmaster/lgmaster/main/crash.gif" width="500" title="Intro Card" alt="Intro Card">
-</p>
-
 My name is Luiz Gustavo and I'm a Full-Stack Mobile and Web Developer :wink:
   
 <!---🌱 I’m currently learning <img src="https://img.shields.io/badge/-VueJS-4FC08D?style=for-the-badge&logo=vue.js&logoColor=FFFFFF">-->
