@@ -8,11 +8,6 @@ My name is Luiz Gustavo and I'm a Full-Stack Mobile and Web Developer :wink:
  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
  
  💬 Ask me about Full Stack Development and any Tech-related stuff.
-
-
-![Profile views](https://gpvc.arturio.dev/lgmaster)  <img src="https://img.shields.io/github/followers/lgmaster?label=Follow" style=" float:left, margin-right:10px" />
-
-
 ---
 
 
